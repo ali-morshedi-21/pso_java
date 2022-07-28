@@ -1,2 +1,2 @@
 # pso_java
-Implementation of the algorithm PSO with java
+Implementation of the PSO algorithm with java
